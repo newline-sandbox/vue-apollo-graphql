@@ -12,6 +12,7 @@
     "vue": "^3.0.0"
   },
   "devDependencies": {
+    "@octokit/graphql-schema": "^10.29.0",
     "@typescript-eslint/eslint-plugin": "^2.33.0",
     "@typescript-eslint/parser": "^2.33.0",
     "@vue/cli-plugin-babel": "~4.5.0",
